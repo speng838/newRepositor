@@ -1,0 +1,17 @@
+#gti-image{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#new-Gti{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+body{
+    background: red;
+    color: white;
+    font-size: 20px;
+    margin-top: 35px;
+}
